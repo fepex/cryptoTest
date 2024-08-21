@@ -1,0 +1,18 @@
+{
+    "uniswap": {
+        "link": "https://app.uniswap.org/",
+        "img": "uniswap.svg"
+    },
+    "oneInch": {
+        "link": "https://app.1inch.io/",
+        "img": "oneInch.webp"
+    },
+    "bugsDenet": {
+        "link": "https://bugs.denet.pro/",
+        "img": "bugsDenet.svg"
+    },
+    "revertFinance": {
+        "link": "https://revert.finance/",
+        "img": "revertFinance.svg"
+    }
+}
